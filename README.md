@@ -24,6 +24,7 @@ Before running the code, ensure you have the following dependencies installed:
 - Scikit-learn
 - Plotly
 - Pandas
+- GPU
 
 You can install these dependencies using pip:
 
